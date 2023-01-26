@@ -21,5 +21,4 @@ Adult ADHD (Attention Deficit Hyperactivity Disorder) symptoms may include:
 Hot temper
 Trouble coping with stress
 
-
-	The game has modes through which it can help the student recover or overcome the some of the issues caused due to ADHD. The game helps in keeping a track of scores for each game mode and with these scores it is possible to forecast the improvement the students shows in which he/she used have issues in such as memorizing, show attention to a subject and so on.
+The game has modes through which it can help the student recover or overcome the some of the issues caused due to ADHD. The game helps in keeping a track of scores for each game mode and with these scores it is possible to forecast the improvement the students shows in which he/she used have issues in such as memorizing, show attention to a subject and so on.
