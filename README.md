@@ -8,17 +8,17 @@ So by utilizing the interactive educational gaming experience helps the students
 
 Adult ADHD (Attention Deficit Hyperactivity Disorder) symptoms may include:
 
-Impulsiveness
-Disorganization and problems prioritizing
-Poor time management skills
-Problems focusing on a task
-Trouble multitasking
-Excessive activity or restlessness
-Poor planning
-Low frustration tolerance
-Frequent mood swings
-Problems following through and completing tasks
-Hot temper
-Trouble coping with stress
+Impulsiveness"\n"
+Disorganization and problems prioritizing"\n"
+Poor time management skills"\n"
+Problems focusing on a task"\n"
+Trouble multitasking"\n"
+Excessive activity or restlessness"\n"
+Poor planning"\n"
+Low frustration tolerance"\n"
+Frequent mood swings"\n"
+Problems following through and completing tasks"\n"
+Hot temper"\n"
+Trouble coping with stress"\n"
 
 The game has modes through which it can help the student recover or overcome the some of the issues caused due to ADHD. The game helps in keeping a track of scores for each game mode and with these scores it is possible to forecast the improvement the students shows in which he/she used have issues in such as memorizing, show attention to a subject and so on.
